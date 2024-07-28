@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/thejas-hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thejas-hari" height="30" width="40" /></a>
 <a href="https://instagram.com/nuthejashari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuthejashari" height="30" width="40" /></a>
 <a href="https://medium.com/@thejaskala308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thejaskala308" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/21st skills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="21st skills" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@21stskills48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="21st skills" height="30" width="40" /></a>
 </p>
 
 
