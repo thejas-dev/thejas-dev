@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejas-dev" alt="thejas-dev" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/nuthejashari" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2022.svg&psig=AOvVaw19DB2IYjFH1BrT4iQo_Zvn&ust=1736061462683000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCS_ojD24oDFQAAAAAdAAAAABAE" alt="thejas-dev" /></a> </p>
+<p align="left"> <a href="https://instagram.com/nuthejashari" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="thejas-dev" /></a> </p>
 
 - 🔭 I’m currently working on **WE (music player)**
 
